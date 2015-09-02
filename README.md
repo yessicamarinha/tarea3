@@ -16,7 +16,7 @@ In computer science, a linked list is a data structure consisting of a group of 
 
 ## Hints
 
-The program should contain 2 classes, a class LinkedList and a class Node that represents each element of the list.
+The program should contain 2 classes, a class LinkedList that represents the whole list and a class Node that represents each element of the list.
 
 ## Input Format
 
@@ -28,13 +28,17 @@ The elements of the list on the same line separated by a comma.
 
 ## Sample input
 
+```Shell
 9
 E
 5
 2.3
 8
 -1
+```
 
 ## Sample output
 
+```Shell
 9,E,5,2.3,8
+```
