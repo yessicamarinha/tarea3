@@ -12,7 +12,7 @@ In order to test the class, write a program that asks for elements to add into t
 
 In computer science, a linked list is a data structure consisting of a group of nodes which together represent a sequence. Under the simplest form, each node is composed of data and a reference (in other words, a link) to the next node in the sequence; more complex variants add additional links. This structure allows for efficient insertion or removal of elements from any position in the sequence.
 
-![Image of a linked list](https://en.m.wikipedia.org/wiki/File:Singly-linked-list.svg)
+![Image of a linked list](https://upload.wikimedia.org/wikipedia/commons/6/6d/Singly-linked-list.svg)
 
 ## Hints
 
